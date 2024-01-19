@@ -475,5 +475,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+#storeage account
+__blobstorage__/*
 __azurite*
+# MacOS
+.DS_Store
