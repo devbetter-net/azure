@@ -15,7 +15,11 @@ https://github.com/microsoft/vscode-node-azure-pack/raw/HEAD/resources/readme/ex
 
 ##Azurite
 https://marketplace.visualstudio.com/items?itemName=Azurite.azurite
+# create Blob Containers
+create new blob container name is devblob
+we can access to http://127.0.0.1:10000/devblob
 
 # Azure storeage account
 ## blob
-### Console
+
+dotnet new mvc 
