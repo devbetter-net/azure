@@ -13,6 +13,9 @@ study more in https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack
 https://github.com/microsoft/vscode-node-azure-pack/raw/HEAD/resources/readme/explorer.png
 
+##Azurite
+https://marketplace.visualstudio.com/items?itemName=Azurite.azurite
+
 # Azure storeage account
 ## blob
 ### Console
